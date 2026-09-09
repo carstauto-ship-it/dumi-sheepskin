@@ -1,18 +1,6 @@
-# Dumi Sheepskin Website
+# dumi-sheepskin.com — DUMI Sheepskin
 
-Premium Australian Merino Sheepskin products e-commerce site.
+Corporate website for DUMI Sheepskin (JINAN CARSTAUTO ACCESSORIES CO., LIMITED).
+React + Vite static build (Accio Site Builder). Bilingual EN/中文.
 
-## Categories
-- Sheepskin Rugs (羊皮地毯)
-- Sheepskin Cushions (羊皮坐垫)  
-- Medical Sheepskin (医疗羊皮)
-- Wheelchair Cushions (轮椅垫)
-
-## Keywords
-sheepskin rug, merino wool, Australian sheepskin, NZ sheepskin,羊皮地毯,医疗羊皮,轮椅垫
-
-## Stack
-- Pure HTML/CSS/JS (static site)
-- SEO optimized pages
-- JSON-LD structured data
-- Sitemap included
+Live site: https://dumi-sheepskin.com
