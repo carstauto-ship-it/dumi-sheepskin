@@ -3516,4 +3516,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url><loc>https://dumi-sheepskin.com/brands/dumi/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://dumi-sheepskin.com/brands/dodomi/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
